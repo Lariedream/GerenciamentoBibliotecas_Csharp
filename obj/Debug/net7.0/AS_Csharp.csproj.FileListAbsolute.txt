@@ -1,0 +1,14 @@
+C:\Users\cenoure bronze\Desktop\AS_Csharp\bin\Debug\net7.0\AS_Csharp.exe
+C:\Users\cenoure bronze\Desktop\AS_Csharp\bin\Debug\net7.0\AS_Csharp.deps.json
+C:\Users\cenoure bronze\Desktop\AS_Csharp\bin\Debug\net7.0\AS_Csharp.runtimeconfig.json
+C:\Users\cenoure bronze\Desktop\AS_Csharp\bin\Debug\net7.0\AS_Csharp.dll
+C:\Users\cenoure bronze\Desktop\AS_Csharp\bin\Debug\net7.0\AS_Csharp.pdb
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.AssemblyInfoInputs.cache
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.AssemblyInfo.cs
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.dll
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\refint\AS_Csharp.dll
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.pdb
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\AS_Csharp.genruntimeconfig.cache
+C:\Users\cenoure bronze\Desktop\AS_Csharp\obj\Debug\net7.0\ref\AS_Csharp.dll
